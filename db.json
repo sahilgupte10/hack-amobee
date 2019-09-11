@@ -1,8 +1,13 @@
 {
   "posts": [
     {
+      "RECORDS": [{
       "id": 1,
       "title": "hello"
+    },
+      {
+      "id": 2,
+      "title": "bye"}]
     }
   ],
   "profile": {
