@@ -1,7 +1,6 @@
 {
   "posts": [
     {
-      "RECORDS": [{
       "id": 1,
       "gender": "Male",
       "age":"18-25",
@@ -22,8 +21,6 @@
       "location":"FL",
       "impression":100
       }
-                 ]
-    }
   ],
   "profile": {
     "name": "typicode"
