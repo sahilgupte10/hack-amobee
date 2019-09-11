@@ -3,11 +3,26 @@
     {
       "RECORDS": [{
       "id": 1,
-      "title": "hello"
+      "gender": "Male",
+      "age":"18-25",
+      "location":"CA",
+      "impression":1000
     },
       {
-      "id": 2,
-      "title": "bye"}]
+      "id": 1,
+      "gender": "Female",
+      "age":"18-25",
+      "location":"CA",
+      "impression":300
+      },
+      {
+      "id": 1,
+      "gender": "Female",
+      "age":"25-40",
+      "location":"FL",
+      "impression":100
+      }
+                 ]
     }
   ],
   "profile": {
